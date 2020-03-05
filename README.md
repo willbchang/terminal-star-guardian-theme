@@ -1,5 +1,4 @@
 # Monokai-WillBC for terminal
-Based on [Monokai_Fish_OSX](https://github.com/benmarten/Monokai_Fish_OSX)
 [Download](https://raw.githubusercontent.com/willbchang/terminal-monokai-blurred-theme/master/Monokai%20Blurred%20Theme.terminal)
 
 Recommend using `Inconsolata`
@@ -21,6 +20,9 @@ brew cask install font-inconsolata
 
 ### Terminal Monokai Blurred Theme in IDEA
 ![Terminal Monokai Blurred Theme in](Terminal%20Monokai%20Blurred%20Theme%20in%20IDEA.png)
+
+## Credit
+Based on [Monokai_Fish_OSX](https://github.com/benmarten/Monokai_Fish_OSX)
 
 ## LICENSE
 MIT
