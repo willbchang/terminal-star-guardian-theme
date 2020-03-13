@@ -15,7 +15,7 @@ brew cask install font-inconsolata
 ![Terminal Profile Window](img/Terminal%20Profile%20Window.png)
 
 ### In VSCode Terminal
-![Terminal Monokai Blurred Theme in VSCode](img/Terminal%20Blurred%20Monokai%20Theme%20in%VSCode.png)
+![Terminal Monokai Blurred Theme in VSCode](img/Terminal%20Blurred%20Monokai%20Theme%20in%20VSCode.png)
 
 ### In IDEA Terminal
 ![Terminal Monokai Blurred Theme in IDEA](img/Terminal%20Blurred%20Monokai%20Theme%20in%20IDEA.png)
