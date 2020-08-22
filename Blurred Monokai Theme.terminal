@@ -271,6 +271,8 @@
 	</data>
 	<key>BackgroundSettingsForInactiveWindows</key>
 	<false/>
+	<key>Bell</key>
+	<false/>
 	<key>CursorBlink</key>
 	<true/>
 	<key>CursorColor</key>
@@ -424,7 +426,7 @@
 	<key>columnCount</key>
 	<integer>80</integer>
 	<key>name</key>
-	<string>Monokai Blurred Theme</string>
+	<string>Blurred Monokai Theme</string>
 	<key>type</key>
 	<string>Window Settings</string>
 	<key>useOptionAsMetaKey</key>
