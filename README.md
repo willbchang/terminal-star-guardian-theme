@@ -1,11 +1,11 @@
-# Terminal Blurred Monokai Theme
-[Download](https://raw.githubusercontent.com/willbchang/terminal-blurred-monokai-theme/master/Blurred%20Monokai%20Theme.terminal)
+# Terminal Star Guardian Theme
+[Download](https://raw.githubusercontent.com/willbchang/terminal-star-guardian-theme/master/Star%20Guardian%20Theme.terminal)
 
-Recommend using [Inconsolata](https://levien.com/type/myfonts/inconsolata.html).
+Recommend using Roboto Mono with ligature.
 
 ```bash
-brew tap homebrew/cask-fonts
-brew cask install font-inconsolata
+brew tap willbchang/homebrew-cask-font-roboto-ligature
+brew install --cask font-roboto-mono-ligature
 ```
 
 ## Screenshot
